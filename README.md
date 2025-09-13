@@ -2,3 +2,5 @@
 Pequeno jogo de colisões entre retângulos
 
 Jogo com interface interativa simples para que você tente colidir retângulos.
+
+Jogo proposto pela disciplina de Introdução à Programação
